@@ -13,14 +13,14 @@ Using:
 
 - Fork the project and clone it locally.
 - Sign up to [MongoDB Atlas](https://www.mongodb.com/cloud/atlas) to get a connection string for your application code
-- Create a file in the `/backend` folder of the project called `.env` with the following content:
+- Create a file in the `/backend` directory of the project called `.env` with the following content:
 ```sh
 ATLAS_URI = 'The connection string you obtained from MongoDB Atlas'
 ```
 
 In the `/backend` directory, run:
 ### `node server`
-The server will start listening on port 500
+The server will start listening on port 5000.
 
 
 In the project root directory, run:
