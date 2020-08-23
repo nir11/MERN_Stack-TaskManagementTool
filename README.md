@@ -7,7 +7,7 @@ Using:
 - ReactJS
 - Node.js
 
-![Home Page](https://github.com/nir11/MERN_Stack-TaskManagementTool/screenshors/screenshot.PNG)
+![Home Page](https://github.com/nir11/MERN_Stack-TaskManagementTool/blob/master/screenshots/screenshot.PNG)
 
 ## Getting started
 
@@ -21,6 +21,7 @@ ATLAS_URI = 'The connection string you obtained from MongoDB Atlas'
 In the `/backend` directory, run:
 ### `node server`
 The server will start listening on port 500
+
 
 In the project root directory, run:
 ### `npm start`
